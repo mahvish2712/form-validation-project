@@ -1,5 +1,5 @@
-* Form Validation Project
-This project demonstrates a basic form validation system using HTML, CSS, and JavaScript.
+Form Validation Project 
+* This project demonstrates a basic form validation system using HTML, CSS, and JavaScript.
 
 Project Structure:
 * index.html: The main HTML file containing the form with input fields and validation output.
